@@ -1,0 +1,7 @@
+{
+  "name": "ionic-components-master",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
