@@ -41,6 +41,12 @@ https://capacitorjs.com/docs/android
 * Dark theme への 切り替えを実装
 
 
+# License
+
+このプロジェクトは **MIT License** の下で公開されています。
+詳細は [LICENSE](./LICENSE) を参照してください。
+
+
 # Author
 
 * rhdddddddd
@@ -91,6 +97,12 @@ https://capacitorjs.com/docs/android
 * Use header buttons to expand links to each UI component page (split pane display on devices wider than 1200px)
 * Also created a page about basic Ionic CSS Utilities
 * Implemented switch to Dark theme
+
+
+# License
+
+This project is released under the **MIT License**.
+See [LICENSE](./LICENSE) for details.
 
 
 # Author
