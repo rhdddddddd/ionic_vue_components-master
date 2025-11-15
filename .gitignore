@@ -5,6 +5,8 @@
 *.tmp.*
 .DS_Store
 Thumbs.db
+UserInterfaceState.xcuserstate
+$RECYCLE.BIN/
 
 *.log
 log.txt
@@ -24,6 +26,6 @@ npm-debug.log*
 /plugins
 /www
 
-/android
-/ios
+android/
+ios/
 
